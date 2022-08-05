@@ -1,15 +1,12 @@
 Portfolio
 
-#### By _**{List of contributors}**_
+By Keisha Hepner
 
-#### _{Brief description of application}_
+This application is a brief overview on who Keisha Hepner is and how she decided to start her career in tech. It also includes links to some of her first projects. Bonus: Mushroom Identifying challenge.
 
-## Technologies Used
+Technologies Used
+html
 
-* _List all_
-* _the major technologies_
-* _you used in your project_
-* _here_
 
 ## Description
 
