@@ -1,35 +1,24 @@
-Portfolio
+# Portfolio
 
-By Keisha Hepner
+#### By Keisha Hepner
 
-This application is a brief overview on who Keisha Hepner is and how she decided to start her career in tech. It also includes links to some of her first projects. Bonus: Mushroom Identifying challenge.
+#### This application is Keisha's portfolio.
 
-Technologies Used
-html
+## Technologies Used
+* html
 
-
-## Description
-
-_{This is a detailed description of your application. Give as much detail as needed to explain what the application does as well as any other information you want users or other developers to have.}_
+## This application is a brief overview on who Keisha Hepner is and how she decided to start her career in tech. It also includes links to some of her first projects. Bonus: Mushroom Identifying challenge.
 
 ## Setup/Installation Requirements
+* Open your terminal and create a new folder with `mkdir` command. This is where your repository will be stored locally.
+* Navigate to https://github.com/KeishaMarie/portfolio_2 .
+* Click on the green code button to open dropdown and copy link to clone Portfolio 2.
+* Open folder in your text editor.
 
-Go to your terminal and create a new folder with the name portfolio
-Open this directory in your text editor
+## No known Bugs
 
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
 
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this application depends on? We recommend deleting the project from your desktop, re-cloning the project from GitHub, and writing down all the steps necessary to get the project working again.}_
-
-## Known Bugs
-
-* _Any known issues_
-* _should go here_
-
-MIT License
+## MIT License
 
 Copyright (c) [2022] [Keisha Hepner]
 
